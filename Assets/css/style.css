@@ -1,0 +1,122 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    color: black;
+    margin-top: 40px;
+}
+
+li {
+    font-size: large;
+}
+
+.about-body-div {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    border: 1px solid #c0c0c0;
+    background-color: lightgray;
+}
+
+.about-white-box {
+    background-color: white;
+    height: 780px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.contact-body-div {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    border: 1px solid #c0c0c0;
+    background-color: lightgray;
+}
+
+.contact-white-box {
+    background-color: white;
+    height: 480px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.portfolio-body-div {
+    position: relative;
+    width: 100%;
+    height: 900px;
+    border: 1px solid #c0c0c0;
+    background-color: lightgray;
+}
+
+.portfolio-white-box {
+    background-color: white;
+    height: 880px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.portfolio-title {
+    font-size: large;
+}
+
+.mynav {
+    background-color: darkcyan;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: rgb(44, 44, 44);
+}
+
+.green-top {
+    width: 100%;
+    height: 10px;
+    background-color: darkcyan;
+}
+
+.darkcyan {
+    background-color: darkcyan;
+}
+
+.my-image {
+    height: auto;
+    /* max-width: 200%; */
+    width: 200px;
+    text-align: center;
+}
+
+.buttonPlacement {
+    background-color: darkcyan;
+}
+
+@media screen and (max-width: 600px) {
+    .mynav {
+        width: 100%;
+    }
+
+    .links {
+        width: 100%;
+        text-align: center;
+    }
+}
+
