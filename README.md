@@ -3,6 +3,7 @@
 Updated the previous portfolio I had uploaded, now includes links to some of my repositories and links to my linkedIn and Github pages on my about page.  Various sections were also restyled and resized.
 
 Deployed link: https://kffl3496.github.io/Updated-Portfolio/
+
 Github URL: https://github.com/kffl3496/Updated-Portfolio
 
 ![pic1](https://user-images.githubusercontent.com/59713450/75127650-520ab680-568e-11ea-82de-d9a48a0bd100.png)
